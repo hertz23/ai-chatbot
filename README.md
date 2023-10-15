@@ -1,1 +1,1 @@
-# ai-chatbot
+# first version of Rocotai AI simulation
