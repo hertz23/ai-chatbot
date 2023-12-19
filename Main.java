@@ -5,7 +5,8 @@ class Main {
     Scanner scanner = new Scanner(System.in);
     boolean exitChat = false;
 
-    System.out.println("JavaGPT");
+    System.out.println("Rocoai 1 Beta");
+    System.out.println("Made by https://github.com/yuhertz. Learn more at https://home.rocotai.repl.co");
     System.out.print("Enter your name:");
     String user = scanner.nextLine();
 
